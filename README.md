@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6591dd61-a73f-46d4-a7c5-8362f1bc9797" />
 # 💬 Real-Time Chat System
 
 A full-stack real-time multi-room chat application built with the MERN stack and Socket.io.
